@@ -1,0 +1,22 @@
+# Ignore virtual environment directories
+venv/
+env/
+.env/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore IDE and editor files
+.vscode/
+.idea/
+*.swp
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore Pipfile and Pipfile.lock
+Pipfile
+Pipfile.lock
